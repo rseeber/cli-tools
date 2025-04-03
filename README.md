@@ -1,5 +1,5 @@
 # cli-tools
-This repo is a collection of my attempts to re-impliment common unix command-line tools from scratch as an expercise in programming. Here's my current progress.
+This repo is a collection of my attempts to re-impliment common unix command-line tools from scratch as an exercise in programming. Here's my current progress.
 
 ## cat
 fairly simple program, works for no inputted file (using stdin), a single file, or multiple files.
